@@ -1,1 +1,1 @@
-Software testing engineer. Loves drawing and animating stuffs with Python. Currently interested in Web Scraping, Functional automatin testing using selenium with python, API Automation testing, ETL/ELT testing. Oh, and the first love was Computational Fluid Dynamics!
+Software testing engineer. Loves drawing and animating stuffs with Python. Currently interested in Web Scraping, Functional automation testing using selenium with python, API Automation testing, ETL/ELT testing. Oh, and the first love was Computational Fluid Dynamics!
